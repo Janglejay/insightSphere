@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "d5485ad0f692c2db",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc3d37c24666eea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c05c533657e443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/Algorithms/动态规划/计数类DP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "352ae940623e581d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/Algorithms/动态规划/区间DP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06a0e19e9eecf3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/Algorithms/动态规划/背包问题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "065c02d4afdfab27",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7173d8f220b3707",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e4450fb9d08ca78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bb7bf228a18ea83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#design-pattern",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "59c67f75998dd22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "40dd0f863f8e756e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4669c09a5a62d968",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn/Algorithms/动态规划/背包问题.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4722300cd1ce6a6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8fbba2b8e36b3664",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4669c09a5a62d968",
+  "lastOpenFiles": [
+    "Plan/Time management.md",
+    "Learn/Algorithms/动态规划/区间DP.md",
+    "Learn/Algorithms/动态规划/背包问题.md",
+    "Learn/Algorithms/动态规划/计数类DP.md",
+    "Learn/Algorithms/动态规划/记忆化搜索.md",
+    "Learn/Algorithms/动态规划/解题思路.md",
+    "Learn/Algorithms/动态规划/数位DP.md",
+    "Learn/Algorithms/动态规划/树形DP.md",
+    "Learn/Java/Basic/泛型.md",
+    "Excalidraw/attachment/Pasted Image 20230405002506_318.png",
+    "Excalidraw/Drawing 2023-04-05 00.24.17.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-13 22.34.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-05 00.24.17.excalidraw.svg",
+    "attachment/Pasted image 20230412233018.png",
+    "attachment/Pasted image 20230412232750.png",
+    "attachment/Pasted image 20230412232652.png",
+    "attachment/Pasted image 20230412232039.png",
+    "attachment/Pasted image 20230412230814.png",
+    "Tools/Idea/Favorites/Lessons.md",
+    "Tools/Mac/显示文件全路径.md",
+    "美团保险联调平台使用(测试版）.md",
+    "Untitled.canvas",
+    "Plan/Daily/2023-04-13.md",
+    "Plan/attachment/Pasted image 20230413171449.png",
+    "Plan/attachment",
+    "Management/基金.md",
+    "Management/金融基础知识.md",
+    "Management/资产类型.md",
+    "attachment/Pasted image 20230412235658.png",
+    "attachment/Pasted image 20230412235309.png",
+    "attachment",
+    "Excalidraw/attachment",
+    "Excalidraw",
+    "Plan/Daily/2023-02-14.md",
+    "Learn/Java/Favorites/Bookmarks.md",
+    "Learn/Java/Basic",
+    "Learn/Java/Favorites/Lessons.md",
+    "Untitled 1.md",
+    "Management/常见指数基金.md",
+    "Plan/记个土豆.md",
+    "Plan/Daily/2023-02-08.md"
+  ]
+}

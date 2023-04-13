@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "d5485ad0f692c2db",
+    "type": "split",
+    "children": [
+      {
+        "id": "282455ee16c29d3b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "065c02d4afdfab27",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7173d8f220b3707",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e4450fb9d08ca78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bb7bf228a18ea83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#map-struct",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "59c67f75998dd22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "40dd0f863f8e756e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4669c09a5a62d968",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4722300cd1ce6a6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fbba2b8e36b3664",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "add8a2d3ded6746b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367
+  },
+  "active": "282455ee16c29d3b",
+  "lastOpenFiles": [
+    "Learn/MapStruct/使用手册.md",
+    "Learn/Algorithms/动态规划2/状态机模型.md",
+    "Learn/Algorithms/数据结构/KMP.md",
+    "Learn/Algorithms/数据结构/images/image-20201222152130202.png",
+    "Learn/Algorithms/数据结构/images/image-20210118212318664.png",
+    "Learn/Algorithms/数据结构/Tire树.md",
+    "Learn/Algorithms/动态规划2/背包模型3.md",
+    "Learn/Algorithms/动态规划2/test.md",
+    "Learn/Algorithms/数学知识/中国剩余定理.md",
+    "Learn/Design-Pattern/23种设计模式.md"
+  ]
+}

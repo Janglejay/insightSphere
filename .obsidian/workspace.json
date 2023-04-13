@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "9eaf43cc2c4f311f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f686c488b497690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe7ee9e679e9663a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbef4e1e05008278",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f16e727f46ded4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d05f99aeb3f0f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce1b649ceb055f89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#design-pattern",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13dde8bdc1b8be31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c634c86106af187",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be50619c8f9c964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331e9fcb128bc663",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75ba38a6a9fc3606",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "95a8b76c6fcdeb35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d1640213ea583ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "20d05f99aeb3f0f3",
+  "lastOpenFiles": [
+    "TechnologyAndEngineering/Learn/Design-Pattern/设计原则.md",
+    "TechnologyAndEngineering/Learn/Design-Pattern/模版方法.md.md",
+    "TechnologyAndEngineering/Learn/Design-Pattern/单例模式.md.md",
+    "TechnologyAndEngineering/Learn/Design-Pattern/23种设计模式.md",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/状态压缩DP.md",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/images/19_4dd1644c20-2411_1.jpg",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/images/dp_计数问题.png",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/线性DP.md",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/数位DP.md",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/树形DP.md",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/解题思路.md",
+    "TechnologyAndEngineering/Live/自律.md",
+    "TechnologyAndEngineering/Learn/Algorithms/动态规划/背包问题.md"
+  ]
+}

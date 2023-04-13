@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "75fe4657ce8ff01c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b073782fd27503b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1e5c475d6dde7b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5acb98ed6ec9b221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b2a0c844c96dc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e019f27eb7c1489",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284
+  },
+  "right": {
+    "id": "c8de09b351da3718",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b6c47addfca87e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedb423274379656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b073782fd27503b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "状态压缩.md",
+    "背包模型1.md",
+    "Untitled 3.md",
+    "数字三角形模型.md",
+    "背包模型4.md",
+    "背包模型3.md",
+    "test.md"
+  ]
+}
