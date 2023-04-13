@@ -11,8 +11,12 @@
             "id": "fe7ee9e679e9663a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TechnologyAndEngineering/Plan/Time management-private.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TechnologyAndEngineering/Plan/Time management-private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TechnologyAndEngineering/Plan/Time management-private.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,14 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TechnologyAndEngineering/Plan/Time management-private.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +147,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "20d05f99aeb3f0f3",
+  "active": "fe7ee9e679e9663a",
   "lastOpenFiles": [
     "TechnologyAndEngineering/Learn/Design-Pattern/设计原则.md",
     "TechnologyAndEngineering/Learn/Design-Pattern/模版方法.md.md",
