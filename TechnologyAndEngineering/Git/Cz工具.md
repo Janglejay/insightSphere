@@ -1,6 +1,9 @@
 
 ---
-tags: standard, git
+tags:
+ - Git
+ - Commitizen
+---
 ---
 
 # Cz安装
@@ -50,9 +53,9 @@ defaults write com.apple.finder AppleShowAllFiles FALSE ; killall Finder
 ```
 
 ##### 四.自定义配置实现
-
 -   在 $HOME【即~】文件夹下创建cz-config.js 文件
--   官方提供了一份配置信息，可以去这个地址查看：[https://github.com/leoforfree/cz-customizable/blob/master/cz-config-EXAMPLE.js](https://icode.best/go?go=aHR0cHM6Ly9naXRodWIuY29tL2xlb2ZvcmZyZWUvY3otY3VzdG9taXphYmxlL2Jsb2IvbWFzdGVyL2N6LWNvbmZpZy1FWEFNUExFLmpz)
+-   官方提供了一份配置信息，可以去这个地址查看：
+ > [https://github.com/leoforfree/cz-customizable/blob/master/cz-config-EXAMPLE.js](https://icode.best/go?go=aHR0cHM6Ly9naXRodWIuY29tL2xlb2ZvcmZyZWUvY3otY3VzdG9taXphYmxlL2Jsb2IvbWFzdGVyL2N6LWNvbmZpZy1FWEFNUExFLmpz)
 
 ##### 五.使用
 
@@ -61,5 +64,5 @@ git cz  或者直接 cz
 ```
 
 注意：存在如下提示，是由于本地没有`git add` 文件  
-![在这里插入图片描述](https://img-bc.icode.best/20201113104926100.png)  
+![nano](https://img-bc.icode.best/20201113104926100.png)  
 官方项目地址 ：[https://github.com/commitizen/cz-cli](https://icode.best/go?go=aHR0cHM6Ly9naXRodWIuY29tL2NvbW1pdGl6ZW4vY3otY2xp)

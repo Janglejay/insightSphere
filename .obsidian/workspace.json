@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "66584362fa1ed76a",
+        "id": "2b5b9fd8cfa0db5f",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0aaeeeb7a3b247",
+            "id": "80ec5d74fd6a15d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TechnologyAndEngineering/Git/Cz工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b040342b1605232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechnologyAndEngineering/Git/Commitizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a01271af23bc03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechnologyAndEngineering/Tools/LeTeX.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,6 +56,7 @@
       {
         "id": "29f16e727f46ded4",
         "type": "tabs",
+        "dimension": 55.024390243902445,
         "children": [
           {
             "id": "20d05f99aeb3f0f3",
@@ -38,53 +68,6 @@
               }
             }
           },
-          {
-            "id": "13dde8bdc1b8be31",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 271.5
-  },
-  "right": {
-    "id": "2c634c86106af187",
-    "type": "split",
-    "children": [
-      {
-        "id": "4be50619c8f9c964",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d1640213ea583ee",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "95a8b76c6fcdeb35",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb040d7ae9ef7dd9",
-        "type": "tabs",
-        "children": [
           {
             "id": "ce1b649ceb055f89",
             "type": "leaf",
@@ -99,8 +82,102 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "13dde8bdc1b8be31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
+      },
+      {
+        "id": "94fca425a88fe688",
+        "type": "tabs",
+        "dimension": 44.97560975609756,
+        "children": [
+          {
+            "id": "eee04259f1d5a8d7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TechnologyAndEngineering/Git/Commitizen.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1217408182408948,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "2c634c86106af187",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be50619c8f9c964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d1640213ea583ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TechnologyAndEngineering/Git/Commitizen.md"
+              }
+            }
+          },
+          {
+            "id": "95a8b76c6fcdeb35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa0605015fc5c420",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
       },
       {
         "id": "71759205d46b429e",
@@ -112,10 +189,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "TechnologyAndEngineering/Git/Commitizen.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -128,12 +206,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TechnologyAndEngineering/Git/Commitizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,37 +221,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d1640213ea583ee",
+  "active": "6b040342b1605232",
   "lastOpenFiles": [
-    "PrivateSphere/Plan/Time management.md",
-    "PrivateSphere",
-    "PrivateSphere/Plan/attachment/Pasted image 20230413171449.png",
-    "TechnologyAndEngineering/Plan/Daily/2023-04-13.md",
-    "TechnologyAndEngineering/Git.md",
-    "TechnologyAndEngineering/Git",
+    "TechnologyAndEngineering/Git/attachments/Pasted image 20230415003302.png",
+    "TechnologyAndEngineering/Git/attachments",
     "TechnologyAndEngineering/Git/Cz工具.md",
-    "TechnologyAndEngineering/Algorithms/动态规划/背包问题.md",
-    "TechnologyAndEngineering/Algorithms/动态规划/状态压缩DP.md",
-    "TechnologyAndEngineering/Design-Pattern/设计原则.md",
-    "TechnologyAndEngineering/Design-Pattern/模版方法.md.md",
-    "TechnologyAndEngineering/Design-Pattern/单例模式.md.md",
-    "TechnologyAndEngineering/Design-Pattern/23种设计模式.md",
-    "TechnologyAndEngineering/Algorithms/动态规划/images/19_4dd1644c20-2411_1.jpg",
-    "TechnologyAndEngineering/Algorithms/动态规划/images/dp_计数问题.png",
-    "TechnologyAndEngineering/Algorithms/动态规划/线性DP.md",
-    "TechnologyAndEngineering/Algorithms/动态规划/数位DP.md",
-    "TechnologyAndEngineering/Algorithms/动态规划/树形DP.md",
-    "TechnologyAndEngineering/Algorithms/动态规划/解题思路.md",
-    "HealthAndMedicine/Live/自律.md"
+    "TechnologyAndEngineering/Git/Commitizen.md",
+    "TechnologyAndEngineering/Tools/LeTeX.md",
+    "TechnologyAndEngineering/Tools/Obsidian/Obsidian Math.md",
+    "TechnologyAndEngineering/Tools/Obsidian/attachments/Pasted image 20230415000005.png",
+    "TechnologyAndEngineering/Tools/Obsidian/attachments",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/{{title}}.md",
+    "TechnologyAndEngineering/Tools/Obsidian/未命名.md",
+    "TechnologyAndEngineering/Algorithms/动态规划2/背包模型2.md",
+    "未命名.canvas",
+    "TechnologyAndEngineering/Git/Git Commit.md",
+    "PrivateSphere/Plan/attachment/Pasted image 20230413171449.png",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/attachments/Pasted image 20230414231601.png",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/attachments/人工智能学习路线 1.xmind",
+    "TechnologyAndEngineering/Tools/Obsidian/Obsidian Vim support.md",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/attachments/人工智能学习路线.xmind",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/attachments/20200924.txt",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/attachments",
+    "TechnologyAndEngineering/Tools/Idea/Lessons.md",
+    "TechnologyAndEngineering/Git/Git.md",
+    "BusinessAndManagement/Management/基金.md",
+    "BusinessAndManagement/Management/attachments/Pasted image 20230414214929.png",
+    "BusinessAndManagement/Management/attachments",
+    "TechnologyAndEngineering/Pasted image 20230414214549.png",
+    "TechnologyAndEngineering/Algorithms/贪心算法/images/image-20210208180047989.png",
+    "TechnologyAndEngineering/Algorithms/贪心算法/images/image-20210208103426453.png",
+    "TechnologyAndEngineering/Algorithms/数据结构/images/image-20210118212318664.png",
+    "TechnologyAndEngineering/Algorithms/数据结构/images/image-20201222152130202.png",
+    "TechnologyAndEngineering/Algorithms/数学知识/images/image-20210207224915564.png",
+    "TechnologyAndEngineering/Tools/Mac/显示文件全路径.md",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates",
+    "TechnologyAndEngineering/Tools/Idea/Favorites",
+    "TechnologyAndEngineering/Rust/Favorites/Lessons.md",
+    "TechnologyAndEngineering/Java/MapStruct/使用手册.md",
+    "TechnologyAndEngineering/Java/Favorites/Lessons.md",
+    "TechnologyAndEngineering/Java/Favorites/Bookmarks.md",
+    "TechnologyAndEngineering/Java/Basic/泛型.md",
+    "TechnologyAndEngineering/Algorithms/贪心算法/绝对值不等式.md",
+    "TechnologyAndEngineering/Algorithms/贪心算法/推公式.md",
+    "TechnologyAndEngineering/Algorithms/贪心算法/排序不等式.md",
+    "TechnologyAndEngineering/Algorithms/贪心算法/区间问题.md",
+    "TechnologyAndEngineering/Algorithms/贪心算法/images",
+    "TechnologyAndEngineering/Algorithms/贪心算法/Huffman树.md",
+    "TechnologyAndEngineering/Algorithms/数据结构/栈.md",
+    "TechnologyAndEngineering/Algorithms/数据结构/并查集.md"
   ]
 }

@@ -30,20 +30,20 @@ set clipboard=unnamedplus
 nmap Y gg^yG<End>
 map J }
 map K {
-nmap <Leader>j *
-nmap <Leader>k #
-nmap zc zz
-nmap zz zc
-nmap zZ zM
-nmap zO zR
-nmap vi> T>vt<
-nmap gh <C-w>h
-nmap gj <C-w>j
-nmap sV :sp<CR>
-nmap sv :vs<CR>
-nmap gk <C-w>k
-nmap gl <C-w>l
-nmap <Tab> >>
+" nmap <Leader>j *
+" nmap <Leader>k #
+" nmap zc zz
+" nmap zz zc
+" nmap zZ zM
+" nmap zO zR
+" nmap vi> T>vt<
+" nmap gh <C-w>h
+" nmap gj <C-w>j
+" nmap sV :sp<CR>
+" nmap sv :vs<CR>
+" nmap gk <C-w>k
+" nmap gl <C-w>l
+" nmap <Tab> >>
 " nnoremap <S-Tab> <<
 nmap <BS> <<
 map H ^
@@ -56,3 +56,7 @@ exmap back obcommand app:go-back
 nmap <C-o> :back
 exmap forward obcommand app:go-forward
 nmap <C-n> :forward
+exmap pre obcommand workspace:previous-tab
+nmap E :pre
+exmap next obcommand workspace:next-tab 
+nmap R :next

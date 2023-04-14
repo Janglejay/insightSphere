@@ -5,5 +5,6 @@
   "monospaceFontFamily": "FiraCode Nerd Font",
   "textFontFamily": "FiraCode Nerd Font",
   "baseFontSize": 16,
-  "translucency": true
+  "translucency": true,
+  "cssTheme": ""
 }

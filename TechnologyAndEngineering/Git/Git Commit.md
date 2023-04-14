@@ -1,6 +1,9 @@
 ---
-tags: standard
+tags:
+- Git
 ---
+---
+
 ### git commit log 规范
 angular规范: https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines
 

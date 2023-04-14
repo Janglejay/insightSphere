@@ -1,5 +1,5 @@
 ---
-tags: java
+tags: TechnologyAndEngineering/Java
 ---
 
 ### Blog

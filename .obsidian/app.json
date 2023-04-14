@@ -5,5 +5,10 @@
   "attachmentFolderPath": "./attachments",
   "spellcheck": true,
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "PrivateSphere/"
+  ],
+  "showLineNumber": true,
+  "tabSize": 4
 }
