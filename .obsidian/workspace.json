@@ -11,11 +11,52 @@
             "id": "5648520aabc1bba1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TechnologyAndEngineering/Distributed/TaskScheduling/Task Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c804fc9c9246f3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechnologyAndEngineering/Java/Tomcat/Tomcat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "657c61b58986d81d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechnologyAndEngineering/Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5bcb4169a5053c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LanguageLearning/English/English.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -52,7 +93,7 @@
       {
         "id": "94fca425a88fe688",
         "type": "tabs",
-        "dimension": 43.80487804878049,
+        "dimension": 43.80487804878048,
         "children": [
           {
             "id": "eee04259f1d5a8d7",
@@ -60,6 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "LanguageLearning/English/English.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -94,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FundamentalAlgorithms",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LanguageLearning/English/English.md"
+              }
             }
           },
           {
@@ -158,6 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LanguageLearning/English/English.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LanguageLearning/English/English.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +246,27 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "20d05f99aeb3f0f3",
+  "active": "4c5bcb4169a5053c",
   "lastOpenFiles": [
     "commit-scratch",
+    "TechnologyAndEngineering/Java/WebFlux/WebFlux.md",
+    "TechnologyAndEngineering/Java/Java.md",
+    "TechnologyAndEngineering/Java/WebFlux",
+    "LanguageLearning/English/English.md",
+    "LanguageLearning/English/attachments/朱伟恋词：题源报刊7000词（下）.myfile.pdf",
+    "LanguageLearning/English/attachments/朱伟恋词：题源报刊7000词（上）.myfile.pdf",
+    "LanguageLearning/English/attachments/恋词序列二5500词.myfile.pdf",
+    "LanguageLearning/English/attachments/2021朱伟恋词-真题5500词【增值版】.myfile.pdf",
+    "LanguageLearning/English/attachments/The New Yorker-2021-08-16.pdf",
+    "LanguageLearning/English/attachments/The New Yorker-2021-08-09.pdf",
+    "LanguageLearning/English/attachments/The New Yorker-2021-08-02.pdf",
+    "LanguageLearning/English/attachments/National Geographic USA-2021-01.pdf",
+    "TechnologyAndEngineering/Java/Tomcat/Tomcat.md",
+    "TechnologyAndEngineering/Distributed/TaskScheduling/Task Scheduling.md",
+    "PrivateSphere/Plan/Time management.md",
+    "TechnologyAndEngineering/Java/JVM/JVM.md",
+    "TechnologyAndEngineering/Java/Spring/Spring.md",
+    "PrivateSphere/QAT.md",
     "TechnologyAndEngineering/DesignPattern/单例模式.md.md",
     "TechnologyAndEngineering/DesignPattern/Untitled.md",
     "HealthAndMedicine/Health.md",
@@ -218,27 +283,9 @@
     "x.md",
     "TechnologyAndEngineering/Front-end/Front-end.md",
     "BusinessAndManagement/Insurance/Insurance.md",
-    "BusinessAndManagement/Fund/Fund.md",
-    "BusinessAndManagement/Fund/基金.md",
-    "BusinessAndManagement/Fund/资产类型.md",
-    "BusinessAndManagement/Fund/金融基础知识.md",
-    "TechnologyAndEngineering/Tools/Obsidian/Templates/Template.md",
-    "TechnologyAndEngineering/Algorithms/MathematicalKnowledge/Mathematical Knowledge.md",
-    "TechnologyAndEngineering/Algorithms/GreedyAlgorithm/Greedy Algorithm.md",
-    "TechnologyAndEngineering/Algorithms/GraphTheory/Untitled.md",
-    "TechnologyAndEngineering/Algorithms/FundamentalAlgorithms/基础算法2/递推与递归.md",
     "TechnologyAndEngineering/Algorithms/DataStructure/images/image-20210118212318664.png",
-    "TechnologyAndEngineering/Algorithms/GreedyAlgorithm",
-    "TechnologyAndEngineering/Algorithms/MathematicalKnowledge",
-    "TechnologyAndEngineering/Algorithms/DataStructure",
-    "TechnologyAndEngineering/Algorithms/FundamentalAlgorithms",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming",
     "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/images/dp_计数问题.png",
     "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/images/19_4dd1644c20-2411_1.jpg",
-    "TechnologyAndEngineering/Distributed/CI",
-    "TechnologyAndEngineering/HotTechnology",
-    "TechnologyAndEngineering/Distributed/Translation",
-    "TechnologyAndEngineering/Distributed/TaskScheduling",
     "TechnologyAndEngineering/Java/attachments/Pasted image 20230415223803.png",
     "TechnologyAndEngineering/Java/attachments/Pasted image 20230415194228.png",
     "TechnologyAndEngineering/Java/attachments/index-read.gif",

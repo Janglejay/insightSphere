@@ -5,7 +5,7 @@ tags:
 ---
 ---
 # Spring
-[Spring6]https://www.bilibili.com/video/BV1kR4y1b7Qc/?vd_source=99b31898c1408d1d4c4fe207c39caefd
+[Spring6](https://www.bilibili.com/video/BV1kR4y1b7Qc/?vd_source=99b31898c1408d1d4c4fe207c39caefd)
 
 # Spring MVC
 [Spring MVC](https://www.bilibili.com/video/BV1Ry4y1574R/?vd_source=99b31898c1408d1d4c4fe207c39caefd)
