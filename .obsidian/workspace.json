@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5b9fd8cfa0db5f",
+        "id": "b2581fcd091fa605",
         "type": "tabs",
         "children": [
           {
-            "id": "8aca30f1bea619bd",
+            "id": "5648520aabc1bba1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TechnologyAndEngineering/DesignPattern/23种设计模式.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lessons",
+                "query": "tag:#FundamentalAlgorithms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,12 +174,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,31 +202,31 @@
   "active": "20d05f99aeb3f0f3",
   "lastOpenFiles": [
     "commit-scratch",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/Dynamic Programming.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/解题思路.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/背包问题.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/计数类DP.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/记忆化搜索.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/区间DP.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/树形DP.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/数位DP.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/线性DP.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/状态压缩DP.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/背包模型1.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/背包模型2.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/背包模型3.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/背包模型4.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/区间DP.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/数字三角形模型.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/状态机模型.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/状态压缩.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/最长上升子序列模型1.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/最长上升子序列模型2.md",
-    "TechnologyAndEngineering/Tools/Obsidian/Templates/Template.md",
-    "TechnologyAndEngineering/Algorithms/DataStructure/KMP.md",
-    "TechnologyAndEngineering/Algorithms/DataStructure/Tire树.md",
+    "TechnologyAndEngineering/DesignPattern/单例模式.md.md",
+    "TechnologyAndEngineering/DesignPattern/Untitled.md",
+    "HealthAndMedicine/Health.md",
     "TechnologyAndEngineering/Algorithms/DataStructure/DataStructure.md",
-    "TechnologyAndEngineering/Algorithms/DataStructure/栈.md",
+    "TechnologyAndEngineering/Algorithms/DynamicProgramming/Dynamic Programming.md",
+    "TechnologyAndEngineering/Algorithms/FundamentalAlgorithms/Fundamental Algorithms.md",
+    "TechnologyAndEngineering/Algorithms/GraphTheory/GraphTheory.md",
+    "HealthAndMedicine/Pasted image 20230414214549.png.md",
+    "Pasted image 20230414214549.png.md",
+    "Pasted image 20220724221941.png.md",
+    "TechnologyAndEngineering/Distributed/CI/CI.md",
+    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/背包模型4.md",
+    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/x.md",
+    "x.md",
+    "TechnologyAndEngineering/Front-end/Front-end.md",
+    "BusinessAndManagement/Insurance/Insurance.md",
+    "BusinessAndManagement/Fund/Fund.md",
+    "BusinessAndManagement/Fund/基金.md",
+    "BusinessAndManagement/Fund/资产类型.md",
+    "BusinessAndManagement/Fund/金融基础知识.md",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/Template.md",
+    "TechnologyAndEngineering/Algorithms/MathematicalKnowledge/Mathematical Knowledge.md",
+    "TechnologyAndEngineering/Algorithms/GreedyAlgorithm/Greedy Algorithm.md",
+    "TechnologyAndEngineering/Algorithms/GraphTheory/Untitled.md",
+    "TechnologyAndEngineering/Algorithms/FundamentalAlgorithms/基础算法2/递推与递归.md",
     "TechnologyAndEngineering/Algorithms/DataStructure/images/image-20210118212318664.png",
     "TechnologyAndEngineering/Algorithms/GreedyAlgorithm",
     "TechnologyAndEngineering/Algorithms/MathematicalKnowledge",
@@ -242,7 +239,6 @@
     "TechnologyAndEngineering/HotTechnology",
     "TechnologyAndEngineering/Distributed/Translation",
     "TechnologyAndEngineering/Distributed/TaskScheduling",
-    "TechnologyAndEngineering/Java/JVM",
     "TechnologyAndEngineering/Java/attachments/Pasted image 20230415223803.png",
     "TechnologyAndEngineering/Java/attachments/Pasted image 20230415194228.png",
     "TechnologyAndEngineering/Java/attachments/index-read.gif",

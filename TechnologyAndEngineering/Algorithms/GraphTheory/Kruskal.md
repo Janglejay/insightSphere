@@ -1,3 +1,9 @@
+---
+tags:
+- GraphTheory
+---
+---
+
 # Kruskal
 
 适用于稀疏图

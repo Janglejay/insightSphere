@@ -1,6 +1,6 @@
 ---
 tags:
-- DataStructure
+- Math
 - Algorithms
 ---
 ---

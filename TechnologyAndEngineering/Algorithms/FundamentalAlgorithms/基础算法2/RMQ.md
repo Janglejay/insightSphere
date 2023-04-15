@@ -1,3 +1,9 @@
+---
+tags:
+- FundamentalAlgorithms
+---
+---
+
 # RMQ
 
 RMQ (Range Minimum/Maximum Query)问题是指：对于长度为n的数列A，回答若干询问RMQ(A,i,j)(i,j<=n)，返回数列A中下标在i,j里的最小(大）值，也就是说，RMQ问题是指求区间最值的问题。

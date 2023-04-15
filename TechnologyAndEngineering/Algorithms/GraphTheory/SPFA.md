@@ -1,3 +1,9 @@
+---
+tags:
+- GraphTheory
+---
+---
+
 # SPFA
 
 形式上很像`Dijkstra`，是`Bellman-ford`算法的优化

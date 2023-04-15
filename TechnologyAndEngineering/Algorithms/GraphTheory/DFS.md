@@ -1,3 +1,9 @@
+---
+tags:
+- GraphTheory
+---
+---
+
 # DFS
 
 ## AcWing 842. 排列数字   [原题链接](https://www.acwing.com/problem/content/844/)

@@ -1,6 +1,7 @@
 ---
 tags:
-- DataStructure
+- GreedyAlgorithm
 - Algorithms
 ---
 ---
+

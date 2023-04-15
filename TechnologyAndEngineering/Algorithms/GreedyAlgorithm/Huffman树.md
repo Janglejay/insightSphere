@@ -1,3 +1,9 @@
+---
+tags:
+- GreedyAlgorithm
+---
+---
+
 # Huffman树
 
 是完全二叉树
