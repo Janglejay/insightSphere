@@ -1,6 +1,9 @@
 ---
-tags: Design-Pattern
+tags: 
+- DesignPattern
 ---
+---
+
 # REIS方法论
 >包括场景（scene），角色（role），交互（interaction），效果(effect)四个要素 
 ## 资料

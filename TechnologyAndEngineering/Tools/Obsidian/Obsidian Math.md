@@ -1,6 +1,6 @@
 ---
 tags:
-- Tools
+- Obsidian
 - LaTeX
 ---
 ---

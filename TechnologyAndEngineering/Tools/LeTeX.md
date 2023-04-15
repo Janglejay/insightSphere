@@ -1,6 +1,5 @@
 ---
 tags:
-- 
 - LaTeX
 ---
 ---# LeTeX Formulae
