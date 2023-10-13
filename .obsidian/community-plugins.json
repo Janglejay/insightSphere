@@ -1,5 +1,13 @@
 [
   "obsidian-vimrc-support",
   "quick-latex",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-quiet-outline",
+  "cmdr",
+  "editing-toolbar",
+  "obsidian-emoji-toolbar",
+  "tag-wrangler",
+  "obsidian-auto-link-title",
+  "dataview",
+  "obsidian-plantuml"
 ]

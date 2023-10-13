@@ -4,59 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "b2581fcd091fa605",
+        "id": "502399ac48d0f680",
         "type": "tabs",
         "children": [
           {
-            "id": "5648520aabc1bba1",
+            "id": "7a5dae45f83ec373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TechnologyAndEngineering/Distributed/TaskScheduling/Task Scheduling.md",
+                "file": "HumanitiesAndArts/Guitar/和弦进行.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c804fc9c9246f3d1",
+            "id": "9f76f5adecc56f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TechnologyAndEngineering/Java/Tomcat/Tomcat.md",
+                "file": "材料.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "657c61b58986d81d",
+            "id": "a80becd976cb5830",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "TechnologyAndEngineering/Java/Java.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.5"
               }
             }
           },
           {
-            "id": "4c5bcb4169a5053c",
+            "id": "49bd234c9065fcce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
+            "id": "588a25f34cc1c8c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "d21f2811acafd8c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LanguageLearning/English/English.md",
+                "file": "材料.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,6 +105,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "bf22fb41ac4e3b4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -101,11 +127,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LanguageLearning/English/English.md",
+                "file": "材料.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -124,7 +150,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.615034236697713,
+                  "scale": 0.17032444076977218,
                   "close": true
                 }
               }
@@ -136,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Front-end",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,12 +171,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 259.5
   },
   "right": {
     "id": "2c634c86106af187",
@@ -161,13 +186,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d1640213ea583ee",
+            "id": "53be0ea8c87e0744",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "LanguageLearning/English/English.md"
-              }
+              "type": "quiet-outline",
+              "state": {}
             }
           },
           {
@@ -188,9 +211,37 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "b3da0fa55a3051cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "106ff416edaa7ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ba38a6a9fc3606",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "材料.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       },
       {
         "id": "71759205d46b429e",
@@ -202,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LanguageLearning/English/English.md",
+                "file": "材料.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,25 +263,12 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "75ba38a6a9fc3606",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "LanguageLearning/English/English.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 535.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -242,57 +280,59 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "daily-notes:Open today's daily note": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c5bcb4169a5053c",
+  "active": "d21f2811acafd8c3",
   "lastOpenFiles": [
-    "commit-scratch",
-    "TechnologyAndEngineering/Java/WebFlux/WebFlux.md",
-    "TechnologyAndEngineering/Java/Java.md",
-    "TechnologyAndEngineering/Java/WebFlux",
-    "LanguageLearning/English/English.md",
-    "LanguageLearning/English/attachments/朱伟恋词：题源报刊7000词（下）.myfile.pdf",
-    "LanguageLearning/English/attachments/朱伟恋词：题源报刊7000词（上）.myfile.pdf",
-    "LanguageLearning/English/attachments/恋词序列二5500词.myfile.pdf",
-    "LanguageLearning/English/attachments/2021朱伟恋词-真题5500词【增值版】.myfile.pdf",
-    "LanguageLearning/English/attachments/The New Yorker-2021-08-16.pdf",
-    "LanguageLearning/English/attachments/The New Yorker-2021-08-09.pdf",
-    "LanguageLearning/English/attachments/The New Yorker-2021-08-02.pdf",
-    "LanguageLearning/English/attachments/National Geographic USA-2021-01.pdf",
-    "TechnologyAndEngineering/Java/Tomcat/Tomcat.md",
-    "TechnologyAndEngineering/Distributed/TaskScheduling/Task Scheduling.md",
-    "PrivateSphere/Plan/Time management.md",
-    "TechnologyAndEngineering/Java/JVM/JVM.md",
-    "TechnologyAndEngineering/Java/Spring/Spring.md",
-    "PrivateSphere/QAT.md",
-    "TechnologyAndEngineering/DesignPattern/单例模式.md.md",
-    "TechnologyAndEngineering/DesignPattern/Untitled.md",
-    "HealthAndMedicine/Health.md",
-    "TechnologyAndEngineering/Algorithms/DataStructure/DataStructure.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/Dynamic Programming.md",
-    "TechnologyAndEngineering/Algorithms/FundamentalAlgorithms/Fundamental Algorithms.md",
-    "TechnologyAndEngineering/Algorithms/GraphTheory/GraphTheory.md",
-    "HealthAndMedicine/Pasted image 20230414214549.png.md",
-    "Pasted image 20230414214549.png.md",
-    "Pasted image 20220724221941.png.md",
-    "TechnologyAndEngineering/Distributed/CI/CI.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/背包模型4.md",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/x.md",
-    "x.md",
+    "材料.md",
+    "HumanitiesAndArts/Guitar/和弦进行.md",
+    "HumanitiesAndArts/Guitar/CAGED系统.md",
+    "NaturalScience/关于自律，也许可以是最后一次.md",
+    "Note/Anything.md",
+    "Note/Untitled.canvas",
+    "Note/Untitled.md",
+    "Untitled.canvas",
     "TechnologyAndEngineering/Front-end/Front-end.md",
-    "BusinessAndManagement/Insurance/Insurance.md",
-    "TechnologyAndEngineering/Algorithms/DataStructure/images/image-20210118212318664.png",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/images/dp_计数问题.png",
-    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/images/19_4dd1644c20-2411_1.jpg",
-    "TechnologyAndEngineering/Java/attachments/Pasted image 20230415223803.png",
-    "TechnologyAndEngineering/Java/attachments/Pasted image 20230415194228.png",
-    "TechnologyAndEngineering/Java/attachments/index-read.gif",
-    "TechnologyAndEngineering/ArtificialIntelligence/attachments/LearnPath.png",
-    "TechnologyAndEngineering/Tools/Git/attachments/Pasted image 20230415003302.png",
-    "TechnologyAndEngineering/Tools/Obsidian/attachments/Pasted image 20230415000005.png",
-    "未命名.canvas",
-    "PrivateSphere/Plan/attachment/Pasted image 20230413171449.png"
+    "Note",
+    "HumanitiesAndArts/Guitar/和弦.md",
+    "HealthAndMedicine/Health.md",
+    "BusinessAndManagement/Fund/基金.md",
+    "BusinessAndManagement/Fund/Fund.md",
+    "graph/Mermaid.md",
+    "graph",
+    "PrivateSphere/Plan/attachment/Pasted image 20230413171449.png",
+    "PrivateSphere/QAT.md",
+    "HumanitiesAndArts/Guitar/Untitled.md",
+    "HumanitiesAndArts/Guitar/大调音阶指型.md",
+    "HumanitiesAndArts/Guitar/熟悉指板.md",
+    "HumanitiesAndArts/Guitar/音程度数.md",
+    "HumanitiesAndArts/Guitar/琶音.md",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529230226.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529230153.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225526.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225151.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225136.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225028.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529224917.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529224428.png",
+    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529224046.png",
+    "HumanitiesAndArts/Guitar/attachments",
+    "HumanitiesAndArts/Guitar",
+    "PrivateSphere/Plan/Time management.md",
+    "TechnologyAndEngineering/Java/Basic/Java Generics.md",
+    "TechnologyAndEngineering/Java/Basic/Exception.md",
+    "TechnologyAndEngineering/Java/Basic/Java Web.md",
+    "TechnologyAndEngineering/Java/Java.md",
+    "TechnologyAndEngineering/Java/Spring/Spring.md",
+    "TechnologyAndEngineering/Java/Spring/Spring AOP.md",
+    "TechnologyAndEngineering/Java/Spring/SmallSpring/Spring Bean.md",
+    "TechnologyAndEngineering/Java/Spring/SmallSpring",
+    "TechnologyAndEngineering/Java/Quarkus",
+    "Untitled.table",
+    "Untitled 1.table",
+    "commit-scratch",
+    "TechnologyAndEngineering/Java/WebFlux",
+    "未命名.canvas"
   ]
 }

@@ -35,3 +35,8 @@ tags:
 # Q&A
 [Java大厂面试题v2](https://www.bilibili.com/video/BV18b411M7xz/?vd_source=99b31898c1408d1d4c4fe207c39caefd)
 [Java大厂面试题v3](https://www.bilibili.com/video/BV1Hy4y1B78T/?vd_source=99b31898c1408d1d4c4fe207c39caefd)
+
+
+```dataview
+list  from "TechnologyAndEngineering/Java"
+```
