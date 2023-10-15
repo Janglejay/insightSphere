@@ -4,77 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "502399ac48d0f680",
+        "id": "b5c66cd858ed0321",
         "type": "tabs",
         "children": [
           {
-            "id": "7a5dae45f83ec373",
+            "id": "b29a2f29550b20b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HumanitiesAndArts/Guitar/和弦进行.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f76f5adecc56f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "材料.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a80becd976cb5830",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "49bd234c9065fcce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "588a25f34cc1c8c4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "d21f2811acafd8c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "材料.md",
+                "file": "Note/Mac软件.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "材料.md",
+                "file": "Note/Mac软件.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "材料.md",
+                "file": "Note/Mac软件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "材料.md",
+                "file": "Note/Mac软件.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -283,15 +228,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d21f2811acafd8c3",
+  "active": "b29a2f29550b20b7",
   "lastOpenFiles": [
-    "材料.md",
+    "Note/Anything.md",
+    "Note/Mac软件.md",
     "HumanitiesAndArts/Guitar/和弦进行.md",
+    "材料.md",
     "HumanitiesAndArts/Guitar/CAGED系统.md",
     "NaturalScience/关于自律，也许可以是最后一次.md",
-    "Note/Anything.md",
     "Note/Untitled.canvas",
-    "Note/Untitled.md",
     "Untitled.canvas",
     "TechnologyAndEngineering/Front-end/Front-end.md",
     "Note",
