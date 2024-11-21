@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "39e82cbde93a060d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccca004bb2242cef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c322ad90ad9fc76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test sync.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test sync"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7051a56a9864bc31",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6e359f3338b26cf4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "a02fbe52670af4fe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "2bcccc5623185c27",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "76634f34f1344072",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "9409afde3977b5db",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "798e55a644b3809a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "70eefacf3f6a4067",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "5ca0f424f6e49d49",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2c322ad90ad9fc76",
+  "lastOpenFiles": [
+    "TechnologyAndEngineering/Distributed/Docker/Docker.md",
+    "TechnologyAndEngineering/Distributed/Docker",
+    "TechnologyAndEngineering/Distributed/Distributed.md",
+    "TechnologyAndEngineering/Distributed/Kubernetes/Kubernetes.md",
+    "TechnologyAndEngineering/Distributed/Kubernetes",
+    "TechnologyAndEngineering/Distributed/Dubbo/Dubbo.md",
+    "TechnologyAndEngineering/Distributed/Dubbo",
+    "TechnologyAndEngineering/Distributed/ZooKeeper/ZooKeeper.md",
+    "TechnologyAndEngineering/Distributed/ZooKeeper",
+    "TechnologyAndEngineering/Distributed/TaskScheduling/Task Scheduling.md",
+    "TechnologyAndEngineering/Distributed/TaskScheduling",
+    "TechnologyAndEngineering/Distributed/Elasticsearch/Elasticsearch.md",
+    "TechnologyAndEngineering/Distributed/Elasticsearch",
+    "TechnologyAndEngineering/Distributed/Niginx/Nginx.md",
+    "TechnologyAndEngineering/Distributed/Niginx",
+    "TechnologyAndEngineering/Distributed/MQ/MQ.md",
+    "TechnologyAndEngineering/Distributed/MQ",
+    "TechnologyAndEngineering/Distributed/Netty/Netty.md",
+    "TechnologyAndEngineering/Distributed/Netty",
+    "TechnologyAndEngineering/HotTechnology/HotTechnology.md",
+    "TechnologyAndEngineering/HotTechnology",
+    "TechnologyAndEngineering/Architecture/DomainDrivenDesign/Domain-Driven Design.md",
+    "TechnologyAndEngineering/DesignPattern/设计原则.md",
+    "TechnologyAndEngineering/DesignPattern/状态模式.md.md",
+    "TechnologyAndEngineering/DesignPattern/REIS方法论.md",
+    "TechnologyAndEngineering/DesignPattern/模版方法.md.md",
+    "TechnologyAndEngineering/DesignPattern/23种设计模式.md",
+    "TechnologyAndEngineering/DesignPattern/DesignPattern.md",
+    "TechnologyAndEngineering/DesignPattern/单例模式.md.md",
+    "TechnologyAndEngineering/Rust/Rust.md",
+    "TechnologyAndEngineering/NoSQL/MongoDB/MongoDB.md",
+    "TechnologyAndEngineering/NoSQL/Redis/Redis.md",
+    "TechnologyAndEngineering/Java/Basic/Concurrent/Concurrent.md",
+    "TechnologyAndEngineering/Java/Spring/SmallSpring/Spring Bean.md",
+    "TechnologyAndEngineering/Java/WebFlux/WebFlux.md",
+    "TechnologyAndEngineering/Java/LogFrame/LogFrame.md",
+    "TechnologyAndEngineering/Java/attachments/Pasted image 20230415194228.png",
+    "TechnologyAndEngineering/Java/attachments/index-read.gif",
+    "TechnologyAndEngineering/Java/attachments/Pasted image 20230415223803.png",
+    "TechnologyAndEngineering/ArtificialIntelligence/attachments/LearnPath.png",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/attachments/Pasted image 20230414231601.png",
+    "TechnologyAndEngineering/Tools/Git/attachments/Pasted image 20230415003302.png",
+    "TechnologyAndEngineering/Tools/Obsidian/attachments/Pasted image 20230415000005.png",
+    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/images/19_4dd1644c20-2411_1.jpg",
+    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划/images/dp_计数问题.png",
+    "TechnologyAndEngineering/Algorithms/DynamicProgramming/动态规划2/images/image-20210226141448949.png"
+  ]
+}
