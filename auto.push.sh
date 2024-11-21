@@ -29,8 +29,8 @@ echo "$github_result"
 echo "Exit code: $github_exit_code"
 
 # 根据两个操作的结果设置脚本的退出码
-if [ $gitee_exit_code -eq 0 ] && [ $github_exit_code -eq 0 ]; then
-    exit 0
-else
-    exit 1
-fi
+# if [ $gitee_exit_code -eq 0 ] && [ $github_exit_code -eq 0 ]; then
+#     exit 0
+# else
+#     exit 1
+# fi
