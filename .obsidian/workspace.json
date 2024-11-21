@@ -25,14 +25,12 @@
             "id": "1fc0ec65dd529e59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Test sync.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Test sync"
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
@@ -85,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Test sync.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +110,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test sync"
+              "title": "Graph view"
             }
           },
           {
