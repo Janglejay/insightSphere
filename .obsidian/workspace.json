@@ -267,8 +267,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1fc0ec65dd529e59",
+  "active": "20d05f99aeb3f0f3",
   "lastOpenFiles": [
+    "auto.push.sh",
     "TechnologyAndEngineering/Go/Go.md",
     "TechnologyAndEngineering/Front-end/Front-end.md",
     "Time now.md",
@@ -317,7 +318,6 @@
     "材料.md",
     "HumanitiesAndArts/Guitar/CAGED系统.md",
     "Note/Untitled.canvas",
-    "HumanitiesAndArts/Guitar/和弦.md",
     "未命名.canvas"
   ]
 }
