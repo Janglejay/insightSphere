@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c66cd858ed0321",
+        "id": "0667163001ff0e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "b29a2f29550b20b7",
+            "id": "a546aafca1a19e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/Mac软件.md",
+                "file": "TechnologyAndEngineering/HotTechnology/HotTechnology.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "HotTechnology"
+            }
+          },
+          {
+            "id": "1fc0ec65dd529e59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,15 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "13dde8bdc1b8be31",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -56,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -72,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Note/Mac软件.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -98,7 +108,9 @@
                   "scale": 0.17032444076977218,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -107,20 +119,22 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Front-end",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 323.5
   },
   "right": {
     "id": "2c634c86106af187",
@@ -135,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
-              "state": {}
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
@@ -146,7 +162,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -154,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -163,12 +183,25 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "08ad45a6340f3f8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "106ff416edaa7ed3",
@@ -180,10 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/Mac软件.md",
+                "file": "TechnologyAndEngineering/HotTechnology/HotTechnology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HotTechnology"
             }
           }
         ]
@@ -198,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Mac软件.md",
+                "file": "TechnologyAndEngineering/HotTechnology/HotTechnology.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,7 +241,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HotTechnology"
             }
           }
         ]
@@ -225,59 +262,62 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "b29a2f29550b20b7",
+  "active": "1fc0ec65dd529e59",
   "lastOpenFiles": [
-    "Note/Anything.md",
+    "TechnologyAndEngineering/Go/Go.md",
+    "TechnologyAndEngineering/Front-end/Front-end.md",
+    "Time now.md",
     "Note/Mac软件.md",
+    "Spock/编写可读代码的艺术.md",
+    "Spock/Java Testing with spock.md",
+    "Note/Anything.md",
+    "Note/attachments/Pasted image 20231205151902.png",
+    "Note/attachments/Pasted image 20231205151652.png",
+    "Note/attachments/Pasted image 20231205151545.png",
+    "Note/attachments/Pasted image 20231205151341.png",
+    "NaturalScience/关于自律，也许可以是最后一次.md",
+    "LanguageLearning/English/attachments/The New Yorker-2021-08-16.pdf",
+    "LanguageLearning/English/English.md",
+    "LanguageLearning/English/attachments/2021朱伟恋词-真题5500词【增值版】.myfile.pdf",
+    "HealthAndMedicine/Health.md",
+    "Excalidraw/Drawing 2024-07-01 17.00.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-01 17.00.30.excalidraw.svg",
+    "Excalidraw/attachments/Pasted Image 20240701172836_309.png",
+    "BusinessAndManagement/Insurance/Insurance.md",
+    "BusinessAndManagement/Fund/资产类型.md",
+    "BusinessAndManagement/Fund/基金.md",
+    "BusinessAndManagement/Fund/Fund.md",
+    "BusinessAndManagement/Fund/attachments/Pasted image 20230414214929.png",
+    "attachment/Pasted image 20230412232701.png.md",
+    "数据模型资源手册++卷2.pdf",
+    "HumanitiesAndArts/小说/《一地鸡毛》-刘震云.md",
+    "HumanitiesAndArts/小说",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-07-03 15.18.40.excalidraw.md",
+    "Excalidraw/attachments",
+    "Excalidraw/Drawing 2024-07-01 17.10.27.excalidraw.md",
+    "TechnologyAndEngineering/Tools/Obsidian/Templates/attachments/Pasted image 20230414231601.png",
+    "Excalidraw",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Spock/attachments/Java Testing with Spock by Konstantinos Kapelonis, Luke Daley (z-lib.org) 1.pdf",
+    "Spock/attachments/Java Testing with Spock by Konstantinos Kapelonis, Luke Daley (z-lib.org).pdf",
+    "Spock/attachments",
+    "Spock",
+    "Note/美团保险联调平台使用（测试环境）.md",
+    "Note/attachments/Pasted image 20231205151853.png",
+    "Note/attachments/Pasted image 20231205151843.png",
+    "美团保险联调平台使用(测试版）.md",
     "HumanitiesAndArts/Guitar/和弦进行.md",
     "材料.md",
     "HumanitiesAndArts/Guitar/CAGED系统.md",
-    "NaturalScience/关于自律，也许可以是最后一次.md",
     "Note/Untitled.canvas",
-    "Untitled.canvas",
-    "TechnologyAndEngineering/Front-end/Front-end.md",
-    "Note",
     "HumanitiesAndArts/Guitar/和弦.md",
-    "HealthAndMedicine/Health.md",
-    "BusinessAndManagement/Fund/基金.md",
-    "BusinessAndManagement/Fund/Fund.md",
-    "graph/Mermaid.md",
-    "graph",
-    "PrivateSphere/Plan/attachment/Pasted image 20230413171449.png",
-    "PrivateSphere/QAT.md",
-    "HumanitiesAndArts/Guitar/Untitled.md",
-    "HumanitiesAndArts/Guitar/大调音阶指型.md",
-    "HumanitiesAndArts/Guitar/熟悉指板.md",
-    "HumanitiesAndArts/Guitar/音程度数.md",
-    "HumanitiesAndArts/Guitar/琶音.md",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529230226.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529230153.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225526.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225151.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225136.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529225028.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529224917.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529224428.png",
-    "HumanitiesAndArts/Guitar/attachments/Pasted image 20230529224046.png",
-    "HumanitiesAndArts/Guitar/attachments",
-    "HumanitiesAndArts/Guitar",
-    "PrivateSphere/Plan/Time management.md",
-    "TechnologyAndEngineering/Java/Basic/Java Generics.md",
-    "TechnologyAndEngineering/Java/Basic/Exception.md",
-    "TechnologyAndEngineering/Java/Basic/Java Web.md",
-    "TechnologyAndEngineering/Java/Java.md",
-    "TechnologyAndEngineering/Java/Spring/Spring.md",
-    "TechnologyAndEngineering/Java/Spring/Spring AOP.md",
-    "TechnologyAndEngineering/Java/Spring/SmallSpring/Spring Bean.md",
-    "TechnologyAndEngineering/Java/Spring/SmallSpring",
-    "TechnologyAndEngineering/Java/Quarkus",
-    "Untitled.table",
-    "Untitled 1.table",
-    "commit-scratch",
-    "TechnologyAndEngineering/Java/WebFlux",
     "未命名.canvas"
   ]
 }
